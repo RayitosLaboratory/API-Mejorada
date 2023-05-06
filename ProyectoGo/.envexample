@@ -1,0 +1,6 @@
+Driver = "mysql"
+Server = "localhost"
+Port = "3305"
+Usuario = "root"
+Password = "123456789"
+DatabaseBD = "dbpropruebav1"
